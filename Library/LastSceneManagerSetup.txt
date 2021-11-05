@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/USER/Desktop/breack-out/Assets/Breack out.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
